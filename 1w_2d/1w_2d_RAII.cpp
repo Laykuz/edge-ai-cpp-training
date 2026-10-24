@@ -2,6 +2,7 @@
 #include <memory> // 스마트 포인터를 쓰기 위한 헤더
 
 // 객체가 생성되고 소멸될 때를 눈으로 확인하기 위한 테스트용 클래스
+
 class Resource {
 public:
     Resource(int id) : id_(id) {
