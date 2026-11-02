@@ -1,0 +1,3 @@
+/home/laykuz/cpp_practice/day1/build/CMakeFiles/day1_app.dir
+/home/laykuz/cpp_practice/day1/build/CMakeFiles/edit_cache.dir
+/home/laykuz/cpp_practice/day1/build/CMakeFiles/rebuild_cache.dir
